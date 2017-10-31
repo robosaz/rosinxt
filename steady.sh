@@ -1,6 +1,6 @@
 #!/bin/bash
 # =====================================================================================================
-# Copyright (C) steady.sh v1.2 2016 @LuaError (@@shahin_xtbot1)
+# Copyright (C) steady.sh v1.2 2016 @LuaError (@@LuaError1)
 # =====================================================================================================
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -30,7 +30,7 @@ NONVOLUNTARYCHECK=0
 VOLUNTARY=1
 VOLUNTARYCHECK=0
 I=1
-BOT=rosinxt  # You can put here other bots. Also you can change it to run more than one bot in the same server.
+BOT=Tabchi  # You can put here other bots. Also you can change it to run more than one bot in the same server.
 RELOADTIME=10  # Time between checking cpu calls of the cli process. Set the value high if your bot does not receive lots of messages.
 
 
